@@ -1,5 +1,7 @@
 ### Hi there ! 👋
 
+### I am Soumitri Chattopadhyay, Sophomore year student at Department of Information Technology, Jadavpur University. 
+
 <!--
 **soumitri2001/soumitri2001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -16,7 +18,7 @@ Here are some ideas to get you started:
 -->
 
 <a href="https://github.com/soumitri2001">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=soumitri2001&theme=dracula&hide_langs_below=1" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=soumitri2001&theme=dracula&langs_count=4" />
 </a>
 
 [![Soumitri's github stats](https://github-readme-stats.vercel.app/api?username=soumitri2001&theme=dracula)](https://github.com/soumitri2001/github-readme-stats)
