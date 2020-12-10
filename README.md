@@ -21,4 +21,4 @@ Here are some ideas to get you started:
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=soumitri2001&theme=dracula&langs_count=4" />
 </a>
 
-[![Soumitri's github stats](https://github-readme-stats.vercel.app/api?username=soumitri2001&theme=dracula&count_private=true&include_all_commits=true&show_icons=true)](https://github.com/soumitri2001/github-readme-stats)
+[![Soumitri's github stats](https://github-readme-stats.vercel.app/api?username=soumitri2001&theme=dracula&count_private=true&include_all_commits=true&show_icons=true)](https://github.com/soumitri2001)
