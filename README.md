@@ -1,4 +1,4 @@
-### Hi there ! 👋
+### Hello ! 👋
 
 #### I am Soumitri Chattopadhyay, Sophomore year student at Department of Information Technology, Jadavpur University. 
 
@@ -7,7 +7,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on Deep Learning and Optimization algortihms
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
