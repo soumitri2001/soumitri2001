@@ -1,6 +1,6 @@
 ### Hello ! 👋
 
-#### I am Soumitri Chattopadhyay, Sophomore year student at Department of Information Technology, Jadavpur University. 
+### <code>I am Soumitri Chattopadhyay, Sophomore year student at Department of Information Technology, Jadavpur University. </code>
 
 <!--
 **soumitri2001/soumitri2001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
