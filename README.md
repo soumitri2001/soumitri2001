@@ -1,4 +1,4 @@
-### Hello ! 👋
+### <code>Hello ! 👋</code>
 
 ### <code>I am Soumitri Chattopadhyay, Sophomore year student at Department of Information Technology, Jadavpur University. </code>
 
