@@ -1,7 +1,7 @@
 <h3 align="center"><code>Hello ! 👋<br/></code></h3> 
-
+<p>
 <h3 align="center"><code> I am Soumitri Chattopadhyay, Sophomore year student at Department of Information Technology, Jadavpur University.</code> </h3>
-
+</p>
 <!--
 **soumitri2001/soumitri2001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
