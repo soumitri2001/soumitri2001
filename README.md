@@ -1,4 +1,4 @@
-<h3 align="center"><code>Hello ! 👋<br/></code></h3> 
+<h3><code>Hello ! 👋<br/></code></h3> 
 
 <p align="center"><h3><code> I am Soumitri Chattopadhyay, Sophomore year student at Department of Information Technology, Jadavpur University.</code></h3></p>
 
