@@ -17,8 +17,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<a href="https://github.com/soumitri2001">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=soumitri2001&theme=dracula&langs_count=5" />
-</a>
+<p align="center">
+  
+[![Soumitri's language stats](https://github-readme-stats.vercel.app/api/top-langs/?username=soumitri2001&theme=dracula&langs_count=5)](https;//github.com/soumitri2001)
 
 [![Soumitri's github stats](https://github-readme-stats.vercel.app/api?username=soumitri2001&theme=dracula&count_private=true&include_all_commits=true&show_icons=true)](https://github.com/soumitri2001)
+
+### <code>Frameworks/Languages 💻</code>
+![alt_text](https://img.shields.io/badge/Java-%ef4589.svg?&style=for-the-badge&logo=java&logoColor=black)![alt_text](https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&logoColor=white)![alt text](https://img.shields.io/badge/Android-%3DDC84.svg?&style=for-the-badge&logo=android&logoColor=white)![alt text](https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white)![alt text](https://img.shields.io/badge/firebase%20-%23039BE5.svg?&style=for-the-badge&logo=firebase)
+
+</p>
