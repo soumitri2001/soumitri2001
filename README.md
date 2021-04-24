@@ -26,7 +26,4 @@ Here are some ideas to get you started:
    
 <p align="center">  <a href="https://github.com/soumitri2001"><img src="https://github-readme-stats.vercel.app/api?username=soumitri2001&amp;theme=dracula&amp;count_private=true&amp;include_all_commits=true&amp;show_icons=true" alt=" "></a></p>
 
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=soumitri2001"><br/>
-</p>
   
