@@ -14,14 +14,25 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: ...23FF9900
 -->
 <br/>
-<h3 align="center"><code> Frameworks/Languages 💻 </code> </h3>
+<h3 align="center"><code> Frameworks/Tools 💻 </code> </h3>
 
-  <p align="center">
-<img src="https://img.shields.io/badge/Java-%ef4589.svg?&amp;style=for-the-badge&amp;logo=java&amp;logoColor=black" alt="alt_text"><img src="https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white"><img src="https://img.shields.io/badge/Android-%3DDC84.svg?&amp;style=for-the-badge&amp;logo=android&amp;logoColor=white" alt="alt text"><img src="https://img.shields.io/badge/python%20-%2314354C.svg?&amp;style=for-the-badge&amp;logo=python&amp;logoColor=white" alt="alt text"><img src="https://img.shields.io/badge/firebase%20-%23039BE5.svg?&amp;style=for-the-badge&amp;logo=firebase" alt="alt text"><br><img src="https://img.shields.io/badge/numpy-%ef4589.svg?&amp;style=for-the-badge&amp;logo=numpy&amp;logoColor=black" alt="alt_text"><img src="https://img.shields.io/badge/pytorch%20-%23013243.svg?&amp;style=for-the-badge&amp;logo=pytorch&amp;logoColor=white" alt="alt_text"><img src="https://img.shields.io/badge/sklearn%20-%23FF9900.svg?&amp;style=for-the-badge&amp;logo=scikit-learn&amp;logoColor=white" alt="alt_text"><img src="https://img.shields.io/badge/latex%20-%23039FFF.svg?&amp;style=for-the-badge&amp;logo=latex" alt="alt text"><img 
-src="https://img.shields.io/badge/Tensorflow%20-%23013243.svg?&amp;style=for-the-badge&amp;logo=tensorflow&amp;logoColor=yellow" alt="alt_text"></p>
+<p align="center">
+<img src="https://img.shields.io/badge/Java-%ef4589.svg?&amp;style=for-the-badge&amp;logo=java&amp;logoColor=black" alt="alt_text">
+  <img src="https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white">
+  <img src="https://img.shields.io/badge/Android-%3DDC84.svg?&amp;style=for-the-badge&amp;logo=android&amp;logoColor=white" alt="alt_text">
+  <img src="https://img.shields.io/badge/python%20-%2314354C.svg?&amp;style=for-the-badge&amp;logo=python&amp;logoColor=white" alt="alt_text">
+  <img src="https://img.shields.io/badge/firebase%20-%23039BE5.svg?&amp;style=for-the-badge&amp;logo=firebase" alt="alt_text">
+  <img src="https://img.shields.io/badge/git%20-%223FF9900.svg?&style=for-the-badge&logo=git&logoColor=white"/>
+  <br>
+  <img src="https://img.shields.io/badge/numpy-%ef4589.svg?&amp;style=for-the-badge&amp;logo=numpy&amp;logoColor=black" alt="alt_text">
+  <img src="https://img.shields.io/badge/pytorch%20-%23013243.svg?&amp;style=for-the-badge&amp;logo=pytorch&amp;logoColor=white" alt="alt_text">
+  <img src="https://img.shields.io/badge/sklearn%20-%23F05033.svg?&amp;style=for-the-badge&amp;logo=scikit-learn&amp;logoColor=white" alt="alt_text">
+  <img src="https://img.shields.io/badge/latex%20-%23039FFF.svg?&amp;style=for-the-badge&amp;logo=latex" alt="alt text">
+  <img src="https://img.shields.io/badge/Tensorflow%20-%23013243.svg?&amp;style=for-the-badge&amp;logo=tensorflow&amp;logoColor=yellow" alt="alt_text">
+</p>
    <p align="center"><a href="https;//github.com/soumitri2001"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=soumitri2001&amp;theme=dracula&amp;langs_count=5" alt="Soumitri&#39;s language stats"></a></p>
    
    <h3 align="center"><code> GitHub Stats 💻 </code> </h3>
