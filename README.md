@@ -33,8 +33,7 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/sklearn%20-%23F05033.svg?&amp;style=for-the-badge&amp;logo=scikit-learn&amp;logoColor=white" alt="alt_text">
   <img src="https://img.shields.io/badge/Tensorflow%20-%23013243.svg?&amp;style=for-the-badge&amp;logo=tensorflow&amp;logoColor=yellow" alt="alt_text">
 </p>
-   <p align="center"><a href="https;//github.com/soumitri2001"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=soumitri2001&amp;theme=dracula&amp;langs_count=5" alt="Soumitri&#39;s language stats"></a></p>
-   
+
    <h3 align="center"><code> GitHub Stats 💻 </code> </h3>
    
 <p align="center">  <a href="https://github.com/soumitri2001"><img src="https://github-readme-stats.vercel.app/api?username=soumitri2001&amp;theme=dracula&amp;count_private=true&amp;include_all_commits=true&amp;show_icons=true" alt=" "></a></p>
