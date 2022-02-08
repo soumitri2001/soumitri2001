@@ -1,6 +1,6 @@
 <h3><code>Hello ! 👋<br/></code></h3> 
 
-<p>I am **Soumitri Chattopadhyay**, a pre-final year undergraduate student at Department of **Information Technology, **Jadavpur University, India**. I am a recipient of the prestigious **Mitacs GRI '22**, being highly passionate about research pertaining to **Deep Learning** and **Computer Vision** and their application to **Medical Imaging** problems. My research endeavours have resulted in quite a few **research papers** which are currently under review at top-notch journals and conferences. Further, I am also a **reviewer** of several peer-reviewed journals.</p>
+<p>I am <b>Soumitri Chattopadhyay</b>, a pre-final year undergraduate student at Department of <b>Information Technology, Jadavpur University, India.</b> I am a recipient of the prestigious <b>Mitacs GRI '22</b>, being highly passionate about research pertaining to <b>Deep Learning</b> and <b>Computer Vision</b> and their application to <b>Medical Imaging</b> problems. My research endeavours have resulted in quite a few <b>research papers</b> which are currently under review at top-notch journals and conferences. Further, I am also a <b>reviewer</b> of several peer-reviewed journals.</p>
 
 <!--
 **soumitri2001/soumitri2001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
