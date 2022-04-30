@@ -1,21 +1,23 @@
 <h3><code>Hello ! 👋<br/></code></h3> 
 
-<p>I am <b>Soumitri Chattopadhyay</b>, a pre-final year undergraduate student at Department of <b>Information Technology, Jadavpur University, India.</b> I am highly passionate about research pertaining to <b>Deep Learning</b> and <b>Computer Vision</b> and their application to <b>Medical Imaging</b> problems. I am also a recipient of the prestigious <b>Mitacs Globalink Research Internship for the summer of 2022</b>. My research endeavours have resulted in quite a few <b>research papers</b> which are currently under review at reputed journals and conferences. Further, I am also a <b>reviewer</b> of several notable peer-reviewed journals.</p>
+<p>I am <b>Soumitri Chattopadhyay</b>, a pre-final year undergraduate student at Department of <b>Information Technology, Jadavpur University, India.</b> I am highly passionate and motivated about research pertaining to <b>Deep Learning</b> and <b>Computer Vision</b>, particularly under <b>limited label availability (weakly/semi/self-supervised learning)</b>. I am also a recipient of the prestigious <b>Mitacs Globalink Research Internship for the summer of 2022</b>. My research endeavours have resulted in quite a few <b>research papers</b> which are currently under review at reputed journals and conferences. Further, I am also a recognised <b>reviewer</b> of notable peer-reviewed journals.</p>
 
 <!--
 **soumitri2001/soumitri2001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...23FF9900
 -->
+
+- 🔭 I’m currently working on **Self-Supervised Learning** for **Computer Vision**
+- 👯 I’m looking to collaborate on research ideas/projects on **Deep Learning** for **Vision/Speech** applications 
+- 📫 How to reach me: https://linkedin.com/in/soumitri-chattopadhyay
+
+<!-- - 🌱 I’m currently learning ... -->
+<!-- - 🤔 I’m looking for help with ... -->
+<!-- - 💬 Ask me about ... -->
+<!-- - 😄 Pronouns: ... -->
+<!-- - ⚡ Fun fact: ...23FF9900 -->
+<!-- -->
 <br/>
 <h3 align="center"><code> Frameworks/Tools 💻 </code> </h3>
 
