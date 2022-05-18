@@ -2,23 +2,6 @@
 
 <p>I am <b>Soumitri Chattopadhyay</b>, a pre-final year undergraduate student at Department of <b>Information Technology, Jadavpur University, India.</b> I am highly passionate and motivated about research pertaining to <b>Deep Learning</b> and <b>Computer Vision</b>, particularly under <b>limited label availability (weakly/semi/self-supervised learning)</b>. I am also a recipient of the prestigious <b>Mitacs Globalink Research Internship for the summer of 2022</b>. My research endeavours have resulted in quite a few <b>research papers</b> which are currently under review at reputed journals and conferences. Further, I am also a recognised <b>reviewer</b> of notable peer-reviewed journals.</p>
 
-<!--
-**soumitri2001/soumitri2001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
--->
-
-- 🔭 I’m currently working on **Self-Supervised Learning** for **Computer Vision**
-- 👯 I’m looking to collaborate on research ideas/projects on **Deep Learning** for **Vision/Speech** applications 
-- 📫 How to reach me: https://linkedin.com/in/soumitri-chattopadhyay
-
-<!-- - 🌱 I’m currently learning ... -->
-<!-- - 🤔 I’m looking for help with ... -->
-<!-- - 💬 Ask me about ... -->
-<!-- - 😄 Pronouns: ... -->
-<!-- - ⚡ Fun fact: ...23FF9900 -->
-<!-- -->
-<br/>
 <h3 align="center"><code> Frameworks/Tools 💻 </code> </h3>
 
 <p align="center">
@@ -35,6 +18,24 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/sklearn%20-%23F05033.svg?&amp;style=for-the-badge&amp;logo=scikit-learn&amp;logoColor=white" alt="alt_text">
   <img src="https://img.shields.io/badge/Tensorflow%20-%23013243.svg?&amp;style=for-the-badge&amp;logo=tensorflow&amp;logoColor=yellow" alt="alt_text">
 </p>
+
+<!--
+**soumitri2001/soumitri2001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+-->
+
+- 🔭 I’m currently working on **Self-Supervised Learning** for **Computer Vision**
+- 👯 I’m looking to collaborate on research ideas/projects on **Deep Learning** for **Vision/Speech** applications 
+- 📫 How to reach me: https://linkedin.com/in/soumitri-chattopadhyay
+
+<!-- - 🌱 I’m currently learning ... -->
+<!-- - 🤔 I’m looking for help with ... -->
+<!-- - 💬 Ask me about ... -->
+<!-- - 😄 Pronouns: ... -->
+<!-- - ⚡ Fun fact: ...23FF9900 -->
+<!-- -->
+
 
 <!--    <h3 align="center"><code> GitHub Stats 💻 </code> </h3>
    
