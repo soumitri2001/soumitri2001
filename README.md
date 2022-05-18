@@ -36,8 +36,8 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Tensorflow%20-%23013243.svg?&amp;style=for-the-badge&amp;logo=tensorflow&amp;logoColor=yellow" alt="alt_text">
 </p>
 
-   <h3 align="center"><code> GitHub Stats 💻 </code> </h3>
+<!--    <h3 align="center"><code> GitHub Stats 💻 </code> </h3>
    
-<p align="center">  <a href="https://github.com/soumitri2001"><img src="https://github-readme-stats.vercel.app/api?username=soumitri2001&amp;theme=dracula&amp;count_private=true&amp;include_all_commits=true&amp;show_icons=true" alt=" "></a></p>
+<p align="center">  <a href="https://github.com/soumitri2001"><img src="https://github-readme-stats.vercel.app/api?username=soumitri2001&amp;theme=dracula&amp;count_private=true&amp;include_all_commits=true&amp;show_icons=true" alt=" "></a></p> -->
 
   
