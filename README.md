@@ -30,7 +30,6 @@ Here are some ideas to get you started:
 
 -->
 
-- 📫 How to reach me: https://linkedin.com/in/soumitri-chattopadhyay
 
 <!-- - 🌱 I’m currently learning ... -->
 <!-- - 🤔 I’m looking for help with ... -->
@@ -45,3 +44,4 @@ Here are some ideas to get you started:
 <p align="center">  <a href="https://github.com/soumitri2001"><img src="https://github-readme-stats.vercel.app/api?username=soumitri2001&amp;count_private=true&amp;include_all_commits=true&amp;show_icons=true" alt=" "></a></p> 
 
   
+- 📫 How to reach me: https://linkedin.com/in/soumitri-chattopadhyay
