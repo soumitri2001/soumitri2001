@@ -23,10 +23,13 @@
 **soumitri2001/soumitri2001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
--->
+
 
 - 🔭 I’m currently working on **Self-Supervised Learning** for **Computer Vision**
 - 👯 I’m looking to collaborate on research ideas/projects on **Deep Learning** for **Vision/Speech** applications 
+
+-->
+
 - 📫 How to reach me: https://linkedin.com/in/soumitri-chattopadhyay
 
 <!-- - 🌱 I’m currently learning ... -->
@@ -34,11 +37,11 @@ Here are some ideas to get you started:
 <!-- - 💬 Ask me about ... -->
 <!-- - 😄 Pronouns: ... -->
 <!-- - ⚡ Fun fact: ...23FF9900 -->
-<!-- -->
+<!-- ;theme=dracula&amp -->
 
 
-<!--    <h3 align="center"><code> GitHub Stats 💻 </code> </h3>
+ <h3 align="center"><code> GitHub Stats 💻 </code> </h3>
    
-<p align="center">  <a href="https://github.com/soumitri2001"><img src="https://github-readme-stats.vercel.app/api?username=soumitri2001&amp;theme=dracula&amp;count_private=true&amp;include_all_commits=true&amp;show_icons=true" alt=" "></a></p> -->
+<p align="center">  <a href="https://github.com/soumitri2001"><img src="https://github-readme-stats.vercel.app/api?username=soumitri2001&amp;count_private=true&amp;include_all_commits=true&amp;show_icons=true" alt=" "></a></p> 
 
   
