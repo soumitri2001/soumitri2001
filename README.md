@@ -1,6 +1,6 @@
 <h3><code>Hello ! 👋<br/></code></h3> 
 
-<p>I am <b>Soumitri Chattopadhyay</b>, a pre-final year undergraduate student at Department of <b>Information Technology, Jadavpur University, India.</b> I am highly passionate and motivated about research pertaining to <b>Deep Learning</b> and <b>Computer Vision</b>, particularly under <b>limited label availability (weakly/semi/self-supervised learning)</b>. I am also a recipient of the prestigious <b>Mitacs Globalink Research Internship for the summer of 2022</b>. My research endeavours have resulted in quite a few <b>research papers</b> which are currently under review at reputed journals and conferences. Further, I am also a recognised <b>reviewer</b> of notable peer-reviewed journals.</p>
+<p>I am <b>Soumitri Chattopadhyay</b>, a final year undergraduate student at Department of <b>Information Technology, Jadavpur University, India.</b> I am highly passionate and motivated about research pertaining to <b>Deep Learning</b> and <b>Computer Vision</b>, particularly under <b>limited label availability (weakly/semi/self-supervised learning)</b>. I am also a recipient of the prestigious <b>Mitacs Globalink Research Internship for the summer of 2022</b>. My research endeavours have resulted in quite a few <b>research papers</b> which are currently under review at reputed journals and conferences. Further, I am also a recognised <b>reviewer</b> of notable peer-reviewed journals.</p>
 
 <h3 align="center"><code> Frameworks/Tools 💻 </code> </h3>
 
