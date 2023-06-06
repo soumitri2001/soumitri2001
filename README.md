@@ -1,47 +1,34 @@
-<h3><code>Hello ! 👋<br/></code></h3> 
+<h3><code>Hello! 👋<br/></code></h3> 
 
-<p>I am <b>Soumitri Chattopadhyay</b>, a final year undergraduate student at Department of <b>Information Technology, Jadavpur University, India.</b> I am highly passionate and motivated about research pertaining to <b>Deep Learning</b> and <b>Computer Vision</b>, particularly under <b>limited label availability (weakly/semi/self-supervised learning)</b>. I am also a recipient of the prestigious <b>Mitacs Globalink Research Internship for the summer of 2022</b>. My research endeavours have resulted in quite a few <b>research papers</b> which are currently under review at reputed journals and conferences. Further, I am also a recognised <b>reviewer</b> of notable peer-reviewed journals.</p>
+<p>I am <b>Soumitri Chattopadhyay</b>, an incoming <b>Computer Science Ph.D.</b> student at the <a href="https://cs.unc.edu/" target="_blank"><strong>University of North Carolina at Chapel Hill</strong></a>, starting Fall 2023. I completed my Bachelors (B.E.) in June '23 majoring in Information Technology at <a href="http://www.jaduniv.edu.in" target="_blank"><strong>Jadavpur University</strong></a>, India.</p>
 
-<h3 align="center"><code> Frameworks/Tools 💻 </code> </h3>
+<h3>Research Interests</h3>
 
-<p align="center">
-<img src="https://img.shields.io/badge/Java-%ef4589.svg?&amp;style=for-the-badge&amp;logo=java&amp;logoColor=black" alt="alt_text">
-  <img src="https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white">
-  <img src="https://img.shields.io/badge/Android-%3DDC84.svg?&amp;style=for-the-badge&amp;logo=android&amp;logoColor=white" alt="alt_text">
-  <img src="https://img.shields.io/badge/python%20-%2314354C.svg?&amp;style=for-the-badge&amp;logo=python&amp;logoColor=white" alt="alt_text">
-  <img src="https://img.shields.io/badge/firebase%20-%23039BE5.svg?&amp;style=for-the-badge&amp;logo=firebase" alt="alt_text">
-  <img src="https://img.shields.io/badge/git%20-%223FF9900.svg?&style=for-the-badge&logo=git&logoColor=white"/>
-  <br>
-  <img src="https://img.shields.io/badge/numpy-%ef4589.svg?&amp;style=for-the-badge&amp;logo=numpy&amp;logoColor=black" alt="alt_text">
-  <img src="https://img.shields.io/badge/pytorch%20-%23013243.svg?&amp;style=for-the-badge&amp;logo=pytorch&amp;logoColor=white" alt="alt_text">
-  <img src="https://img.shields.io/badge/latex%20-%23039FFF.svg?&amp;style=for-the-badge&amp;logo=latex" alt="alt text">
-  <img src="https://img.shields.io/badge/sklearn%20-%23F05033.svg?&amp;style=for-the-badge&amp;logo=scikit-learn&amp;logoColor=white" alt="alt_text">
-  <img src="https://img.shields.io/badge/Tensorflow%20-%23013243.svg?&amp;style=for-the-badge&amp;logo=tensorflow&amp;logoColor=yellow" alt="alt_text">
-</p>
-
-<!--
-**soumitri2001/soumitri2001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-
-- 🔭 I’m currently working on **Self-Supervised Learning** for **Computer Vision**
-- 👯 I’m looking to collaborate on research ideas/projects on **Deep Learning** for **Vision/Speech** applications 
-
--->
-
-
-<!-- - 🌱 I’m currently learning ... -->
-<!-- - 🤔 I’m looking for help with ... -->
-<!-- - 💬 Ask me about ... -->
-<!-- - 😄 Pronouns: ... -->
-<!-- - ⚡ Fun fact: ...23FF9900 -->
-<!-- ;theme=dracula&amp -->
-
-
- <h3 align="center"><code> GitHub Stats 💻 </code> </h3>
-   
-<p align="center">  <a href="https://github.com/soumitri2001"><img src="https://github-readme-stats.vercel.app/api?username=soumitri2001&amp;count_private=true&amp;include_all_commits=true&amp;show_icons=true" alt=" "></a></p> 
-
+<p>
+                My research background focuses on <b>Deep Learning</b> and <b>Computer Vision</b> in <b>limited supervision</b> scenarios, <b>Multi-modal Learning</b>, <b>Medical Imaging</b> and <b>Sketch Analysis</b>. I take particular interest in <strong>multi-modal</strong> setups for low-resource tasks.  I also occasionally work on <b>audio/language</b> processing.  
+<br>
   
-- 📫 How to reach me: https://linkedin.com/in/soumitri-chattopadhyay
+  <h3>Recent updates</h3>
+<ul id="news" >
+              <li><sup>
+                <font color="red"><strong>New!!</strong></font>
+              </sup>[May '23]&nbsp; <b><em>One</em></b> <a href="https://arxiv.org/abs/2306.02680">paper</a> accepted at <b>INTERSPEECH 2023</b>!</li>
+              <li><sup>
+                <font color="red"><strong>New!!</strong></font>
+              </sup>[Apr '23]&nbsp; <b><em>One</em></b> <a href="https://openaccess.thecvf.com/content/CVPR2023W/ECV/html/Bhattacharyya_DeCAtt_Efficient_Vision_Transformers_With_Decorrelated_Attention_Heads_CVPRW_2023_paper.html">paper</a> accepted at <b>CVPR Workshops 2023</b> for <b>Oral</b> presentation!</li>
+              <li><sup>
+                <font color="red"><strong>New!!</strong></font>
+              </sup>[Feb '23]&nbsp; <b><em>One</em></b> <a href="https://openaccess.thecvf.com/content/CVPR2023/html/Sain_Exploiting_Unlabelled_Photos_for_Stronger_Fine-Grained_SBIR_CVPR_2023_paper.html">paper</a> accepted at <b>CVPR 2023</b>!</li>
+              <li><sup>
+                <font color="red"><strong>New!!</strong></font>
+              </sup>[Feb '23]&nbsp; <b><em>One</em></b> <a href="https://ieeexplore.ieee.org/abstract/document/10094869">paper</a> accepted at <b>ICASSP 2023</b>!</li>
+</ul>
+<p align="center"><strong><u>Ways to reach out to me:</u></strong><br>
+<!-- <p align="center"> -->
+                <a href="mailto:soumitri.chattopadhyay@gmail.com">Email</a> &nbsp/&nbsp
+<!--                 <a href="https://drive.google.com/file/d/1OqBNcu8g0NIV2onTXgaLIou54xZWzccY/view" target="_blank">CV</a> &nbsp/&nbsp -->
+                <a href="https://scholar.google.com/citations?hl=en&user=AyMx6O4AAAAJ" target="_blank">Google Scholar</a> &nbsp/&nbsp
+                <a href="https://medium.com/@soumitri2001" target="_blank">Blogs</a> &nbsp/&nbsp
+                <a href="https://soumitri2001.github.io" target="_blank">Website</a> &nbsp/&nbsp
+                <a href="https://www.linkedin.com/in/soumitri-chattopadhyay/" target="_blank">LinkedIn</a> 
+              </p>
