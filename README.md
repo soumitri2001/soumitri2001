@@ -1,4 +1,4 @@
-<h3><code>Hello! 👋<br/></code></h3> 
+<h3><code>Hi there! 👋<br/></code></h3> 
 
 <p>I am <b>Soumitri Chattopadhyay</b>, an incoming <b>Computer Science Ph.D.</b> student at the <a href="https://cs.unc.edu/" target="_blank"><strong>University of North Carolina at Chapel Hill</strong></a>, starting Fall 2023. I completed my Bachelors (B.E.) in June '23 majoring in Information Technology at <a href="http://www.jaduniv.edu.in" target="_blank"><strong>Jadavpur University</strong></a>, India.</p>
 
@@ -12,10 +12,13 @@
 <ul id="news" >
               <li><sup>
                 <font color="red"><strong>New!!</strong></font>
-              </sup>[May '23]&nbsp; <b><em>One</em></b> <a href="https://arxiv.org/abs/2306.02680">paper</a> accepted at <b>INTERSPEECH 2023</b>!</li>
+              </sup>[Jun '23]&nbsp; <b><em>One</em></b> <a href="https://arxiv.org/abs/2303.02245">paper</a> accepted at <b>ICIP 2023</b>!</li>
               <li><sup>
                 <font color="red"><strong>New!!</strong></font>
-              </sup>[Apr '23]&nbsp; <b><em>One</em></b> <a href="https://openaccess.thecvf.com/content/CVPR2023W/ECV/html/Bhattacharyya_DeCAtt_Efficient_Vision_Transformers_With_Decorrelated_Attention_Heads_CVPRW_2023_paper.html">paper</a> accepted at <b>CVPR Workshops 2023</b> for <b>Oral</b> presentation!</li>
+              </sup>[May '23]&nbsp; <b><em>One</em></b> <a href="https://arxiv.org/abs/2306.02680">paper</a> accepted at <b>INTERSPEECH 2023</b> for <b>Oral</b> presentation!</li>
+              <li><sup>
+                <font color="red"><strong>New!!</strong></font>
+              </sup>[Apr '23]&nbsp; <b><em>One</em></b> <a href="https://openaccess.thecvf.com/content/CVPR2023W/ECV/html/Bhattacharyya_DeCAtt_Efficient_Vision_Transformers_With_Decorrelated_Attention_Heads_CVPRW_2023_paper.html">paper</a> accepted at <b>ECV Workshop @ CVPR 2023</b> for <b>Oral</b> presentation!</li>
               <li><sup>
                 <font color="red"><strong>New!!</strong></font>
               </sup>[Feb '23]&nbsp; <b><em>One</em></b> <a href="https://openaccess.thecvf.com/content/CVPR2023/html/Sain_Exploiting_Unlabelled_Photos_for_Stronger_Fine-Grained_SBIR_CVPR_2023_paper.html">paper</a> accepted at <b>CVPR 2023</b>!</li>
