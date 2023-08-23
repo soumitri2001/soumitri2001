@@ -12,6 +12,9 @@
 <ul id="news" >
               <li><sup>
                 <font color="red"><strong>New!!</strong></font>
+              </sup>[Aug '23]&nbsp; <b><em>One</em></b> <a href="https://soumitri2001.github.io">paper</a> accepted at <b>BMVC 2023</b>!</li>
+              <li><sup>
+                <font color="red"><strong>New!!</strong></font>
               </sup>[Jun '23]&nbsp; <b><em>One</em></b> <a href="https://arxiv.org/abs/2303.02245">paper</a> accepted at <b>ICIP 2023</b>!</li>
               <li><sup>
                 <font color="red"><strong>New!!</strong></font>
