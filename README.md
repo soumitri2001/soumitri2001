@@ -1,6 +1,6 @@
 <h3><code>Hi there! 👋<br/></code></h3> 
 
-<p>I am <b>Soumitri Chattopadhyay</b>, a first year <b>Computer Science Ph.D.</b> student at the <a href="https://cs.unc.edu/" target="_blank"><strong>University of North Carolina at Chapel Hill</strong></a>, starting Fall 2023. I completed my Bachelors (B.E.) in June '23 majoring in Information Technology at <a href="http://www.jaduniv.edu.in" target="_blank"><strong>Jadavpur University</strong></a>, India.</p>
+<p>I am <b>Soumitri Chattopadhyay</b>, a first year <b>Computer Science Ph.D.</b> student at the <a href="https://cs.unc.edu/" target="_blank"><strong>University of North Carolina at Chapel Hill</strong></a>. I completed my Bachelors (B.E.) in June '23 majoring in Information Technology at <a href="http://www.jaduniv.edu.in" target="_blank"><strong>Jadavpur University</strong></a>, India.</p>
 
 <h3>Research Interests</h3>
 
