@@ -5,7 +5,7 @@
 <h3>Research Interests</h3>
 
 <p>
-                My research background focuses on <b>Deep Learning</b> and <b>Computer Vision</b> under limited supervision <b>(Semi/Self-supervised Learning)</b>, <b>Multimodal Learning</b>, <b>Medical Imaging</b> and <b>Sketch Analysis</b>. I take particular interest in <strong>multimodal learning</strong>, especially for low-resource tasks.  I also occasionally work on <b>audio/language</b> processing.  
+                Presently, I am working on <b>video understanding</b> for <b>editing/generation</b> tasks. My prior research background focused on <b>self-supervised learning</b> for various computer vision applications, particularly on <b>low-resource</b> data (medical imaging, human sketches, signatures etc.). I am also particularly interested in <b>multi-modal understanding</b> of videos (audio+video+text) and occasionally work on <b>audio/language processing</b>. 
 <br>
   
   <h3>Recent updates</h3>
