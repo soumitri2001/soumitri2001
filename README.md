@@ -10,9 +10,12 @@
   
   <h3>Recent updates</h3>
 <ul id="news" >
+               <li><sup>
+                <font color="red"><strong>New!!</strong></font>
+              </sup>[Jul '24]&nbsp; <b><em>One</em></b> <a href="">paper</a> accepted at <b>BMVC 2024</b>!</li>
               <li><sup>
                 <font color="red"><strong>New!!</strong></font>
-              </sup>[Aug '23]&nbsp; <b><em>One</em></b> <a href="https://soumitri2001.github.io">paper</a> accepted at <b>BMVC 2023</b>!</li>
+              </sup>[Aug '23]&nbsp; <b><em>One</em></b> <a href="https://papers.bmvc2023.org/0337.pdf">paper</a> accepted at <b>BMVC 2023</b>!</li>
               <li><sup>
                 <font color="red"><strong>New!!</strong></font>
               </sup>[Jun '23]&nbsp; <b><em>One</em></b> <a href="https://arxiv.org/abs/2303.02245">paper</a> accepted at <b>ICIP 2023</b>!</li>
