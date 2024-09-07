@@ -1,6 +1,6 @@
 <h3><code>Hi there! 👋<br/></code></h3> 
 
-<p>I am <b>Soumitri Chattopadhyay</b>, a second year <b>Computer Science Ph.D.</b> student at the <a href="https://cs.unc.edu/" target="_blank"><strong>University of North Carolina at Chapel Hill</strong></a>. I completed my Bachelors (B.E.) in June '23 majoring in Information Technology at <a href="http://www.jaduniv.edu.in" target="_blank"><strong>Jadavpur University</strong></a>, India.</p>
+<p>I am <b>Soumitri Chattopadhyay</b>, a second year <b>Computer Science Ph.D.</b> student at the <a href="https://cs.unc.edu/" target="_blank"><strong>University of North Carolina at Chapel Hill</strong></a>. I am a part of <a href="https://biag.cs.unc.edu/">UNC Biomedical Image Analysis Group</a>, advised by <a href="https://scholar.google.com/citations?user=KqtBi6MAAAAJ">Prof. Marc Niethammer</a>. I completed my Bachelors (B.E.) in June '23 majoring in Information Technology at <a href="http://www.jaduniv.edu.in" target="_blank"><strong>Jadavpur University</strong></a>, India.</p>
 
 <h3>Research Interests</h3>
 
