@@ -1,11 +1,11 @@
 <h3><code>Hi there! 👋<br/></code></h3> 
 
-<p>I am <b>Soumitri Chattopadhyay</b>, a first year <b>Computer Science Ph.D.</b> student at the <a href="https://cs.unc.edu/" target="_blank"><strong>University of North Carolina at Chapel Hill</strong></a>. I completed my Bachelors (B.E.) in June '23 majoring in Information Technology at <a href="http://www.jaduniv.edu.in" target="_blank"><strong>Jadavpur University</strong></a>, India.</p>
+<p>I am <b>Soumitri Chattopadhyay</b>, a second year <b>Computer Science Ph.D.</b> student at the <a href="https://cs.unc.edu/" target="_blank"><strong>University of North Carolina at Chapel Hill</strong></a>. I completed my Bachelors (B.E.) in June '23 majoring in Information Technology at <a href="http://www.jaduniv.edu.in" target="_blank"><strong>Jadavpur University</strong></a>, India.</p>
 
 <h3>Research Interests</h3>
 
 <p>
-                Presently, I am working on <b>video understanding</b> for <b>editing/generation</b> tasks. My prior research background focused on <b>self-supervised learning</b> for various computer vision applications, particularly on <b>low-resource</b> data (medical imaging, human sketches, signatures etc.). I am also particularly interested in <b>multi-modal understanding</b> of videos (audio+video+text) and occasionally work on <b>audio/language processing</b>. 
+                 Currently, I am working on <b>semi-supervised</b> segmentation of multimodal <b>3D medical scans</b>. My interests broadly encompass <b>multimodal learning</b> (Vision + X) for generative computer vision, medical image analysis and fine-grained representation learning.  Prior to starting PhD, my research background focused on <b>self-supervised learning</b> for various computer vision applications, particularly on <b>low-resource</b> data (medical imaging, human sketches, signatures etc.). I also occasionally work on <b>audio/language processing</b>. 
 <br>
   
   <h3>Recent updates</h3>
