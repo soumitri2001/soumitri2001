@@ -12,7 +12,7 @@
 <ul id="news" >
                <li><sup>
                 <font color="red"><strong>New!!</strong></font>
-              </sup>[Jul '24]&nbsp; <b><em>One</em></b> <a href="http://arxiv.org/abs/2409.01835">paper</a> accepted at <b>BMVC 2024</b>!</li>
+              </sup>[Jul '24]&nbsp; <b><em>One</em></b> <a href="http://arxiv.org/abs/2409.01835">paper</a> accepted at <b>BMVC 2024</b> for <b>Oral</b> presentation!!</li>
               <li>[Aug '23]&nbsp; <b><em>One</em></b> <a href="https://papers.bmvc2023.org/0337.pdf">paper</a> accepted at <b>BMVC 2023</b>!</li>
               <li>[Jun '23]&nbsp; <b><em>One</em></b> <a href="https://arxiv.org/abs/2303.02245">paper</a> accepted at <b>ICIP 2023</b>!</li>
               <li>[May '23]&nbsp; <b><em>One</em></b> <a href="https://arxiv.org/abs/2306.02680">paper</a> accepted at <b>INTERSPEECH 2023</b> for <b>Oral</b> presentation!</li>
