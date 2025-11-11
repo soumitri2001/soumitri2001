@@ -15,6 +15,9 @@
 <ul id="news" >
               <li><sup>
                 <font color="red"><strong>New!!</strong></font>
+              </sup>[Nov '25]&nbsp;  <b><em>One</em></b> <a href="https://arxiv.org/abs/2503.15868">paper</a> accepted at <b>WACV 2026</b>!</li>
+              <li><sup>
+                <font color="red"><strong>New!!</strong></font>
               </sup>[Sept '25]&nbsp; Transferred to <b>UC San Diego</b> to continue my PhD at the <b>Computer Science and Engineering</b> department</b>!</li>
                <li><sup>
                 <font color="red"><strong>New!!</strong></font>
