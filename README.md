@@ -15,10 +15,13 @@
 <ul id="news" >
               <li><sup>
                 <font color="red"><strong>New!!</strong></font>
-              </sup>[Nov '25]&nbsp;  <b><em>One</em></b> <a href="https://arxiv.org/abs/2503.15868">paper</a> accepted at <b>WACV 2026</b>!</li>
+              </sup>[Jan '26]&nbsp;  <b><em>One</em></b> <a href="https://arxiv.org/abs/2601.16383">paper</a> accepted at <b>ISBI 2026</b>!</li>
               <li><sup>
                 <font color="red"><strong>New!!</strong></font>
-              </sup>[Sept '25]&nbsp; Transferred to <b>UC San Diego</b> to continue my PhD at the <b>Computer Science and Engineering</b> department</b>!</li>
+              </sup>[Nov '25]&nbsp;  <b><em>One</em></b> <a href="https://arxiv.org/abs/2503.15868">paper</a> accepted at <b>WACV 2026</b> for <b>Oral</b> presentation!!</li>
+              <li><sup>
+                <font color="red"><strong>New!!</strong></font>
+              </sup>[Sept '25]&nbsp; Transferred to <b>UC San Diego</b> to continue my PhD at the <b>Computer Science and Engineering</b> department</b>.</li>
                <li><sup>
                 <font color="red"><strong>New!!</strong></font>
               </sup>[Jul '24]&nbsp; <b><em>One</em></b> <a href="http://arxiv.org/abs/2409.01835">paper</a> accepted at <b>BMVC 2024</b> for <b>Oral</b> presentation!!</li>
