@@ -15,6 +15,9 @@
 <ul id="news" >
               <li><sup>
                 <font color="red"><strong>New!!</strong></font>
+              </sup>[Mar '26]&nbsp;  <b><em>One</em></b> <a href="https://arxiv.org/abs/2503.16842">paper</a> accepted at <b>CV4Clinical @ CVPR 2026</b> for <b>Oral</b> presentation!!</li>
+              <li><sup>
+                <font color="red"><strong>New!!</strong></font>
               </sup>[Jan '26]&nbsp;  <b><em>One</em></b> <a href="https://arxiv.org/abs/2601.16383">paper</a> accepted at <b>ISBI 2026</b> for <b>Oral</b> presentation!!</li>
               <li><sup>
                 <font color="red"><strong>New!!</strong></font>
